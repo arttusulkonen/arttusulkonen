@@ -1,9 +1,9 @@
 
  <h1 align="center">Hi 👋, I'm Arttu Sulkonen</h1>
-- <p>26 yo</p>
-- <p>Live in Vantaa</p>
-- <p>I'm studying at Business College Helsinki as a Front-end Developer
-- <h2>My Language skills</h2>
+ <p>26 yo</p>
+ <p>Live in Vantaa</p>
+ <p>I'm studying at Business College Helsinki as a Front-end Developer
+ <h2>My Language skills</h2>
   <li>Russian - ⭐⭐⭐⭐⭐</li>
   <li>Finnish - ⭐⭐⭐⭐</li>
   <li>English - ⭐⭐</li>
