@@ -14,10 +14,10 @@
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arttusulkonen&layout=compact)](https://github.com/arttusulkonen/github-readme-stats)
 
-- 📫 How to reach me **arttu.sulkonen@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="arttusulkonen@gmail.com" target="blank"> <img align="center" src="https://cdn.icon-icons.com/icons2/652/PNG/512/gmail_icon-icons.com_59877.png" height="30" width="30"> </a>
 <a href="https://www.facebook.com/sulkonen/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/sulkonen/" height="30" width="40" /></a>
 <a href="https://instagram.com/arttusulkonen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="arttusulkonen" height="30" width="40" /></a>
 </p>
