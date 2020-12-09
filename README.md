@@ -3,7 +3,7 @@
 <h3 align="center">A frontend developer</h3>
 
 - 🌱 I’m currently learning **JavaScript, Typescript, Angular, C#**
-<p align="left">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arttusulkonen&layout=compact)](https://github.com/arttusulkonen/github-readme-stats)</p>
+<p align="left"><p>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arttusulkonen&layout=compact)](https://github.com/arttusulkonen/github-readme-stats)</p></p>
 
 - 📫 How to reach me **arttu.sulkonen@gmail.com**
 
