@@ -1,5 +1,5 @@
 
- <h1 align="center">Hi 👋, I'm Arttu Sulkonen</h1>
+ <h1 align="center">Hi 👋 I'm Arttu Sulkonen</h1>
  <p>26 yo</p>
  <p>Live in Vantaa</p>
  <p>I'm studying at Business College Helsinki as a Front-end Developer
