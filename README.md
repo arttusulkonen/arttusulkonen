@@ -4,9 +4,9 @@
  <p>Live in Vantaa</p>
  <p>I'm studying at Business College Helsinki as a Front-end Developer
  <h2>My Language skills</h2>
-  <li>Russian - ⭐⭐⭐⭐⭐</li>
-  <li>Finnish - ⭐⭐⭐⭐</li>
-  <li>English - ⭐⭐</li>
+  <li>Russian</li>
+  <li>Finnish</li>
+  <li>English</li>
 
 <hr>
 
