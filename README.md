@@ -1,7 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Arttu Sulkonen</h1>
 <h3 align="center">A frontend developer</h3>
+<p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arttusulkonen&layout=compact)](https://github.com/arttusulkonen/github-readme-stats)
+  </p>
 - 🌱 I’m currently learning **JavaScript, Typescript, Angular, C#**
 
 
@@ -9,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/https://www.facebook.com/sulkonen/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/sulkonen/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/sulkonen/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/sulkonen/" height="30" width="40" /></a>
 <a href="https://instagram.com/arttusulkonen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="arttusulkonen" height="30" width="40" /></a>
 </p>
 
