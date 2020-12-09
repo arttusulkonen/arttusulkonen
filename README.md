@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Arttu Sulkonen</h1>
 <h3 align="center">A frontend developer</h3>
-
-- 🌱 I’m currently learning **JavaScript, Typescript, Angular, C#**
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arttusulkonen&layout=compact)](https://github.com/arttusulkonen/github-readme-stats)
+- 🌱 I’m currently learning **JavaScript, Typescript, Angular, C#**
+
 
 - 📫 How to reach me **arttu.sulkonen@gmail.com**
 
