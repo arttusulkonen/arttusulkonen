@@ -11,7 +11,7 @@
 <hr>
 
 - 🏫 Here is [school project] https://arttusulkonen.github.io/portfolio/
-- 🌱 I’m currently learning **JavaScript, Typescript, Angular, C#**
+- 🌱 I’m currently learning **JavaScript, React**
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arttusulkonen&layout=compact)](https://github.com/arttusulkonen/github-readme-stats)
 
