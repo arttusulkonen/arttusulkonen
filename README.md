@@ -15,7 +15,6 @@
 <p align="left">
 <a href="mailto:arttu.sulkonen@gmail.com" target="blank"> <img align="center" src="https://cdn.icon-icons.com/icons2/652/PNG/512/gmail_icon-icons.com_59877.png" height="40" width="40"> </a>
 <a href="https://www.facebook.com/sulkonen/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/sulkonen/" height="40" width="40" /></a>
-<a href="https://instagram.com/arttusulkonen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="arttusulkonen" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
