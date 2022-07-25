@@ -6,7 +6,6 @@
 
 - 🏫 Here is [school project] https://arttusulkonen.github.io/portfolio/
 - 👨‍💻 Own projects https://github.com/arttusulkonen/Web-projects
-- 🌱 I’m currently learning **JavaScript, React**
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arttusulkonen&layout=compact)](https://github.com/arttusulkonen/github-readme-stats)
 
